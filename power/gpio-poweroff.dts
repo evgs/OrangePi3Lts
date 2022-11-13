@@ -1,0 +1,31 @@
+/dts-v1/;
+/plugin/;
+
+/ {
+        compatible = "allwinner,sun50i-h6";
+
+    fragment@0 {
+        target = <&r_pio>;
+        __overlay__ {
+            key_pwc_pin: key_pwc_pin {
+                pins = "PL2";
+                function = "gpio_out";
+            };
+        };
+    };
+    fragment@1 {
+        target-path = "/leds/";
+        __overlay__ {
+            leds {
+                compatible = "gpio-leds";
+                label = "key-pwc";                 
+                pinctrl-names = "default";
+                pinctrl-0 = <&key_pwc_pin>;
+                gpios = <&r_pio 0 2 0>; /* PB7 - for LED from DFrobot */
+                /* gpios = <&pio 1 7 0>;  PB7 - for other LED */
+                default-state = "on";
+                linux,default-trigger = "default-on";
+            };
+        };
+    };
+};
