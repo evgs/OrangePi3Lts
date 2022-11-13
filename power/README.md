@@ -14,16 +14,31 @@
 Перед подключением реле необходимо скомпилировать оверлей gpio-poweroff.
 
 Устанавливаем необходимые зависимости
-```
+```console
+$ sudo apt install git build-essential linux-headers-current-sunxi64
 ```
 
 Скачать файл gpio-poweroff.dts в домашнюю директорию и скомпилировать
-```
+```console
 $ cd ~
 $ wget (todo)
 $ sudo armbian-add-overlay gpio-poweroff.dts
 $ reboot
 ```
+
+Оверлей создаёт объект "светодиод", подключённый к GPIO PL2, инициализируемый и зажигаемый в момент загрузки оверлея.
+Светодиод будет "светиться" во время нормальной работы платы и будет "погашен" в самом конце завершения работы по команде poweroff.
+
+Также светодиод может быть "погашен" доступом к пину через sysfs:
+```console
+$ echo "0" | sudo tee /sys/class/leds/key-pwc/brightness
+```
+иил через интерфейс gpiod:
+```console
+gpio write 3 0
+```
+
+
 
 
 
