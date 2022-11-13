@@ -30,7 +30,7 @@ $ sudo apt install git build-essential linux-headers-current-sunxi64
 Скачать файл gpio-poweroff.dts в домашнюю директорию и скомпилировать
 ```console
 $ cd ~
-$ wget (todo)
+$ wget https://github.com/evgs/OrangePi3Lts/blob/main/power/gpio-poweroff.dts
 $ sudo armbian-add-overlay gpio-poweroff.dts
 $ reboot
 ```
