@@ -17,7 +17,7 @@
 
 Задать триггер можно командой
 ```console
-$ echo "1" | sudo tee /sys/class/leds/green-led/brightness
+$ echo "heartbeat" | sudo tee /sys/class/leds/green-led/trigger
 ```
 
 Список достаточно полезных триггеров:
@@ -47,6 +47,16 @@ $ echo "1" | sudo tee /sys/class/leds/green-led/brightness
 автосохранение же может запутывать пользователя, если события/триггеры не используются, а состояние модифицируется иным способом, например, из скриптов.
 
 В таком случае предлагается отключить сервис сохранения/восстановления светодиодов, и необходимые триггеры задавать через ```/etc/rc.local```.
-'''console
+```console
 sudo systemctl disable armbian-led-state.service
-'''
+```
+и добавить нужные настройки:
+```console
+$ sudoedit /etc/rc.local
+```
+Добавить строки до команды ```exit 0```
+
+```console
+echo "default-on" > /sys/class/leds/green-led/trigger
+echo "disk-write" > /sys/class/leds/red-led/trigger
+```
