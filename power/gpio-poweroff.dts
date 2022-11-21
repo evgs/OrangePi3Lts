@@ -21,7 +21,7 @@
                 label = "key-pwc";                 
                 pinctrl-names = "default";
                 pinctrl-0 = <&key_pwc_pin>;
-                gpios = <&r_pio 0 2 0>; /* PB7 - for LED from DFrobot */
+                gpios = <&r_pio 0 2 0>; /* PL2 in r_pio bank */
                 /* gpios = <&pio 1 7 0>;  PB7 - for other LED */
                 default-state = "on";
                 linux,default-trigger = "default-on";
