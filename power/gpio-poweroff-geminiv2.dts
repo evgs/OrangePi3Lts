@@ -1,0 +1,36 @@
+/dts-v1/;
+/plugin/;
+
+/* ************************************** */
+/* Overlay for Fly Gemini V2 + BTT Relay  */
+/* BTT Relay should be connected          */
+/* to CPU Fan connector (PL3 pin)         */
+/* ************************************** */
+
+/ {
+        compatible = "allwinner,sun50i-h5";
+
+    fragment@0 {
+        target = <&r_pio>;
+        __overlay__ {
+            key_pwc_pin: key_pwc_pin {
+                pins = "PL3";
+                function = "gpio_out";
+            };
+        };
+    };
+    fragment@1 {
+        target-path = "/leds/";
+        __overlay__ {
+            leds {
+                compatible = "gpio-leds";
+                label = "key-pwc";                 
+                pinctrl-names = "default";
+                pinctrl-0 = <&key_pwc_pin>;
+                gpios = <&r_pio 0 3 0>;
+                default-state = "on";
+                linux,default-trigger = "default-on";
+            };
+        };
+    };
+};
