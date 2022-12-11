@@ -80,9 +80,14 @@ Params: gpiopin                 GPIO for signalling (default 26)
                                 power-down before issuing a WARN (default 3000).
 ```
 
-Добавляем следующую строку в файл config.txt
-```
+Добавляем следующую строку в файл config.txt. Укажем, что используем пин GPIO26, и что для выключения пин должен быть в состоянии логического нуля:
+```dtoverlay=gpio-poweroff,gpiopin=26,active_low```
+
+Это можно сделать либо через текстовый редактор, либо такой командой:
+```console
 $ echo "dtoverlay=gpio-poweroff,gpiopin=26,active_low" | sudo tee -a /boot/config.txt
+```
+Перезагружаемся
 $ sudo reboot
 ```
 (Опционально) Проверяем результат.
