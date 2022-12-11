@@ -86,7 +86,9 @@ $ echo "dtoverlay=gpio-poweroff,gpiopin=26,active_low" | sudo tee -a /boot/confi
 $ sudo reboot
 ```
 (Опционально) Проверяем результат.
-```console gpio readall```
+```console 
+$ gpio readall
+```
 ![gpio26](../images/gpio26.png) 
 
 
