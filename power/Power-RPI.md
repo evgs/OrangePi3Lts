@@ -83,6 +83,11 @@ Params: gpiopin                 GPIO for signalling (default 26)
 Добавляем следующую строку в файл config.txt
 ```
 $ echo "dtoverlay=gpio-poweroff,gpiopin=26,active_low" | sudo tee -a /boot/config.txt
+$ sudo reboot
+```
+(Опционально) Проверяем результат.
+```console gpio readall```
+![gpio26](../images/gpio26.png) 
 
 
 ## Подробности реализации
