@@ -32,7 +32,7 @@ CH340 https://aliexpress.ru/item/32529737466.html
 
 ![debug-uart](../images/debug-uart.png)
 
-## Таблица соединений
+### Таблица соединений
 
 | CP2102 | OPI3LTS |
 |--------|---------|
