@@ -2,11 +2,11 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>RPi Serial Connection - eLinux.org</title>
+<title>File:Putty-settings.png - eLinux.org</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"RPi_Serial_Connection","wgTitle":"RPi Serial Connection","wgCurRevisionId":489841,"wgRevisionId":489841,"wgArticleId":16754,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["RaspberryPi"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"RPi_Serial_Connection","wgRelevantArticleId":16754,"wgRequestId":"f4425a495d6c1d5d4329e92c","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0wx7oyb",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
-});mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"]);});</script>
-<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"File","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":6,"wgPageName":"File:Putty-settings.png","wgTitle":"Putty-settings.png","wgCurRevisionId":236840,"wgRevisionId":236840,"wgArticleId":52364,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"File:Putty-settings.png","wgRelevantArticleId":52364,"wgRequestId":"ba24204f73ed3ca969220c5f","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRestrictionUpload":[],"wgWikiEditorEnabledModules":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"ready","user.tokens":"loading","filepage":"ready","mediawiki.action.view.filepage":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0wx7oyb",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.action.view.metadata","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.action.view.filepage%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
@@ -18,275 +18,76 @@
 <link rel="alternate" type="application/atom+xml" title="eLinux.org Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
 <!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-RPi_Serial_Connection rootpage-RPi_Serial_Connection skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-6 ns-subject page-File_Putty-settings_png rootpage-File_Putty-settings_png skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
 		<div id="mw-head-base" class="noprint"></div>
 		<div id="content" class="mw-body" role="main">
 			<a id="top"></a>
 			<div id="siteNotice" class="mw-body-content"><script>document.write("\u003Cdiv id=\"localNotice\" lang=\"en\" dir=\"ltr\"\u003E\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E");</script></div><div class="mw-indicators mw-body-content">
 </div>
-<h1 id="firstHeading" class="firstHeading" lang="en">RPi Serial Connection</h1>			<div id="bodyContent" class="mw-body-content">
+<h1 id="firstHeading" class="firstHeading" lang="en">File:Putty-settings.png</h1>			<div id="bodyContent" class="mw-body-content">
 				<div id="siteSub" class="noprint">From eLinux.org</div>				<div id="contentSub"></div>
 								<div id="jump-to-nav" class="mw-jump">
 					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
 				</div>
-				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Back to <a href="/RPi_Advanced_Setup" title="RPi Advanced Setup">RPi Advanced Setup</a>.
-</p><p>The serial port is a low-level way to send data between the Raspberry Pi and another computer system. There are two main ways in which it can be used:
-</p>
-<ul><li>Connecting to a PC to allow access to the Linux <a rel="nofollow" class="external text" href="http://en.wikipedia.org/wiki/System_console">console</a>. This can help to fix problems during boot, or to log in to the Raspberry Pi if the video and network are not available.</li>
-<li>Connecting to a microcontroller or other peripheral which has a <a rel="nofollow" class="external text" href="http://en.wikipedia.org/wiki/Serial_port">serial</a> interface. This can be useful if you want the Raspberry Pi to control another device.</li></ul>
-<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
-<ul>
-<li class="toclevel-1 tocsection-1"><a href="#Connections_and_signal_levels"><span class="tocnumber">1</span> <span class="toctext">Connections and signal levels</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Connection_to_a_PC"><span class="tocnumber">2</span> <span class="toctext">Connection to a PC</span></a>
-<ul>
-<li class="toclevel-2 tocsection-3"><a href="#Console_serial_parameters"><span class="tocnumber">2.1</span> <span class="toctext">Console serial parameters</span></a></li>
-<li class="toclevel-2 tocsection-4"><a href="#Linux_terminal_set_up"><span class="tocnumber">2.2</span> <span class="toctext">Linux terminal set up</span></a></li>
-<li class="toclevel-2 tocsection-5"><a href="#Network_connection_with_the_point-to-point_protocol_.28ppp.29"><span class="tocnumber">2.3</span> <span class="toctext">Network connection with the point-to-point protocol (ppp)</span></a></li>
-<li class="toclevel-2 tocsection-6"><a href="#Virtual_connection_to_the_LAN"><span class="tocnumber">2.4</span> <span class="toctext">Virtual connection to the LAN</span></a></li>
-<li class="toclevel-2 tocsection-7"><a href="#Windows_terminal_set-up"><span class="tocnumber">2.5</span> <span class="toctext">Windows terminal set-up</span></a></li>
-<li class="toclevel-2 tocsection-8"><a href="#Boot_messages"><span class="tocnumber">2.6</span> <span class="toctext">Boot messages</span></a></li>
-<li class="toclevel-2 tocsection-9"><a href="#Unwanted_serial_garbage_input"><span class="tocnumber">2.7</span> <span class="toctext">Unwanted serial garbage input</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-10"><a href="#Connection_to_a_microcontroller_or_other_peripheral"><span class="tocnumber">3</span> <span class="toctext">Connection to a microcontroller or other peripheral</span></a>
-<ul>
-<li class="toclevel-2 tocsection-11"><a href="#H.2FW_considerations"><span class="tocnumber">3.1</span> <span class="toctext">H/W considerations</span></a></li>
-<li class="toclevel-2 tocsection-12"><a href="#S.2FW:_Preventing_Linux_from_using_the_serial_port"><span class="tocnumber">3.2</span> <span class="toctext">S/W: Preventing Linux from using the serial port</span></a>
-<ul>
-<li class="toclevel-3 tocsection-13"><a href="#Method_1.2C_raspi-config_.28easiest.2C_try_this_first.29"><span class="tocnumber">3.2.1</span> <span class="toctext">Method 1, raspi-config (easiest, try this first)</span></a></li>
-<li class="toclevel-3 tocsection-14"><a href="#Method_2.2C_using_an_existing_script_.28easy.29"><span class="tocnumber">3.2.2</span> <span class="toctext">Method 2, using an existing script (easy)</span></a></li>
-<li class="toclevel-3 tocsection-15"><a href="#Method_3.2C_manual_configuration_.28complex.29"><span class="tocnumber">3.2.3</span> <span class="toctext">Method 3, manual configuration (complex)</span></a></li>
-</ul>
-</li>
-<li class="toclevel-2 tocsection-16"><a href="#Handshaking_lines"><span class="tocnumber">3.3</span> <span class="toctext">Handshaking lines</span></a></li>
-<li class="toclevel-2 tocsection-17"><a href="#Glitch_when_opening_serial_port"><span class="tocnumber">3.4</span> <span class="toctext">Glitch when opening serial port</span></a></li>
-</ul>
-</li>
-</ul>
+				<div id="mw-content-text"><ul id="filetoc"><li><a href="#file">File</a></li>
+<li><a href="#filehistory">File history</a></li>
+<li><a href="#filelinks">File usage</a></li>
+<li><a href="#metadata">Metadata</a></li></ul><div class="fullImageLink" id="file"><a href="/images/6/64/Putty-settings.png"><img alt="File:Putty-settings.png" src="/images/6/64/Putty-settings.png" width="455" height="434" /></a><div class="mw-filepage-resolutioninfo">No higher resolution available.</div></div>
+<div class="fullMedia"><a href="/images/6/64/Putty-settings.png" class="internal" title="Putty-settings.png">Putty-settings.png</a> &#8206;<span class="fileInfo">(455 × 434 pixels, file size: 12 KB, MIME type: <span class="mime-type">image/png</span>)</span>
 </div>
-
-<h2><span class="mw-headline" id="Connections_and_signal_levels">Connections and signal levels</span></h2>
-<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Adafruit-connection.jpg" class="image"><img alt="" src="/images/thumb/1/13/Adafruit-connection.jpg/300px-Adafruit-connection.jpg" width="300" height="322" class="thumbimage" srcset="/images/thumb/1/13/Adafruit-connection.jpg/450px-Adafruit-connection.jpg 1.5x, /images/thumb/1/13/Adafruit-connection.jpg/600px-Adafruit-connection.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Adafruit-connection.jpg" class="internal" title="Enlarge"></a></div>Adafruit serial cable connected to Pi</div></div></div>
-<p>The Raspberry Pi serial port consists of two signals (a 'transmit' signal, TxD and a 'receive' signal RxD) made available on the <a href="/RPi_Low-level_peripherals" title="RPi Low-level peripherals">GPIO header</a>. To connect to another serial device, you connect the 'transmit' of one to the 'receive' of the other, and vice versa. You will also need to connect the Ground pins of the two devices together.
-</p><p>The Broadcom chip at the heart of the Raspberry Pi has low power serial ports with limitations of voltage and protocol compatibility.  The ports use 0V and 3.3&#160;V logic levels, not 0 &amp; +5V TTL levels or the +/-12&#160;V used by <a rel="nofollow" class="external text" href="http://en.wikipedia.org/wiki/RS-232">RS-232</a> serial ports found on some older PCs. If you wish to connect one of these, you need a board or adapter to convert the signal levels. See <a rel="nofollow" class="external text" href="http://codeandlife.com/2012/07/01/raspberry-pi-serial-console-with-max3232cpe/">this tutorial</a> for one example on how to build a 3.3&#160;V to RS-232 level converter with a breadboard, a MAX3232CPE IC and five 0.1&#160;µF capacitors. If your Raspberry Pi has bluetooth/wireless capability, then the on-chip UART connected to the header pins is the less capable mini-UART with no break detection, no framing errors detection, no parity bit, no receive timeout interrupt and no DCD, DSR, DTR or RI signals (See <a rel="nofollow" class="external text" href="https://www.raspberrypi.org/documentation/configuration/uart.md">RPi UART info</a> for more details.)
-</p><p>If you wish to connect your Raspberry Pi to a PC with a USB port, the simplest option is to use a USB-to-serial cable which uses 3.3&#160;V logic levels (e.g. the <a rel="nofollow" class="external text" href="http://www.adafruit.com/products/954">Adafruit 954</a> cable, the <a rel="nofollow" class="external text" href="http://www.ftdichip.com/Products/Cables/RPi.htm">FTDI TTL-232R-RPI</a> cable, or the <a rel="nofollow" class="external text" href="http://www.mysticengineering.com/debug.buddy/pi.usage.html">Debug Buddy</a> ultimate serial port). These can be simply plugged in directly to the GPIO header (see illustration).
+<div id="mw-imagepage-content" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Screenshot showing settings for using PuTTY with an Adafruit USB-serial lead.
 </p>
-<ul><li>For using the <i>Adafruit 954</i> cable on <a href="/index.php?title=Windows&amp;action=edit&amp;redlink=1" class="new" title="Windows (page does not exist)">Windows</a>, see <a href="/Adafruit_954_USB_serial_cable" title="Adafruit 954 USB serial cable">Adafruit 954 USB serial cable</a>.</li></ul>
-<p>If you wish to connect to a peripheral which has 0/5&#160;V signals, you should ideally have a circuit to convert between the voltage levels. See <a rel="nofollow" class="external text" href="http://www.element14.com/community/groups/raspberry-pi/blog/2012/07/18/look-ma-no-display-using-the-raspberry-pi-serial-console">this tutorial</a> for an example using a ready-made level shifter module. Other circuits for level shifting are shown at <a href="/RPi_GPIO_Interface_Circuits#Level_Shifters" title="RPi GPIO Interface Circuits">RPi_GPIO_Interface_Circuits#Level_Shifters</a>.   The <a rel="nofollow" class="external text" href="http://www.mysticengineering.com/debug.buddy">Debug Buddy</a> ultimate serial port can also be configured for 0/5&#160;V signals.
-</p><p><b>NOTE FOR RASPBERRY PI 3:</b> The Raspberry pi 3 has changed things a bit and you might need to add the option <code>enable_uart=1</code> at the end of <code>/boot/config.txt</code> (see this <a rel="nofollow" class="external text" href="https://www.raspberrypi.org/forums/viewtopic.php?f=28&amp;t=141195">post by a Pi Engineer</a>)
-</p>
-<h2><span class="mw-headline" id="Connection_to_a_PC">Connection to a PC</span></h2>
-<p>You can connect the Raspberry Pi to a PC using a USB-serial cable, or (if it has an RS-232 port) a level-converter circuit - see above for details. When this is done, you will need to set up a <a rel="nofollow" class="external text" href="http://en.wikipedia.org/wiki/Terminal_emulator">terminal emulator</a> program on your PC as described below.
-</p>
-<h3><span class="mw-headline" id="Console_serial_parameters">Console serial parameters</span></h3>
-<p>The following parameters are needed to connect to the Raspberry Pi console, and apply on both Linux and Windows.
-</p>
-<ul><li>Speed (baud rate): 115200</li>
-<li>Bits: 8</li>
-<li>Parity: None</li>
-<li>Stop Bits: 1</li>
-<li>Flow Control: None</li></ul>
-<h3><span class="mw-headline" id="Linux_terminal_set_up">Linux terminal set up</span></h3>
-<p>If your PC is running Linux, you will need to know the <i>port name</i> of its serial port:
-</p>
-<ul><li>Built-in (standard) Serial Port: the Linux standard is  <b>/dev/ttyS0</b>, <b>/dev/ttyS1</b>, and so on</li>
-<li>USB Serial Port Adapter: <b>/dev/ttyUSB0</b>, <b>/dev/ttyUSB1</b>, and so on.
-<ul><li>Some types of USB serial adapter may appear as <b>/dev/ttyACM0</b> ...</li></ul></li></ul>
-<p>You will need to be a member of the <i>dialout</i> group to access this port (for later releases the required group is <i>tty</i>). You can check which is needed with:
-</p>
-<pre>ls -l /dev/ttyUSB0
-</pre>
-<p>and you will see something like "crw-rw----T 1 root dialout ...", <i>c</i> means character device, and root can 'read,write' and the group <i>dialout</i> can 'read,write' to the port and everyone else cannot access it.
-</p><p>To find out if you, the current user, is in the group dialout, use the command:
-</p>
-<pre>id
-</pre>
-<p>If you do not see <i>dialout</i> listed, add yourself with the command
-</p>
-<pre>sudo usermod -a -G dialout <i>username</i>
-</pre>
-<p>You then have a choice of terminal emulation programs:
-</p>
-<ul><li><b>Super Easy Way Using GNU Screen</b></li></ul>
-<p>Enter the command below into a terminal window
-</p>
-<pre> screen <i>port_name</i> 115200
-</pre>
-<p>To exit GNU screen, type Control-A k.
-</p>
-<ul><li><b>Super Easy Way Using Minicom</b></li></ul>
-<p>Run Minicom with the following parameters:
-</p>
-<pre>minicom -b 115200 -o -D Port_Name
-</pre>
-<p>You can exit Minicom with Control-A x
-</p><p><b>Note</b>: If you haven't configured minicom before (i.e: first use after installation), or if you find that your keyboard key presses are not sent to the RPi, you should make sure  <b>Hardware Flow Control</b> is disabled. See <b>Tedious Old-Fashioned Way Using Minicom</b> to configure minicom.
-</p>
-<ul><li><b>Tedious Old-Fashioned Way Using Minicom</b></li></ul>
-<p>Another method to setup <i>minicom</i> is described in the <a rel="nofollow" class="external text" href="http://www.tincantools.com/wiki/Minicom">Tincantools Minicom Tutorial</a>
-</p>
-<ul><li><b>GUI method with GtkTerm</b></li></ul>
-<p>Start <i>GtkTerm</i>, select Configuration-&gt;Port and enter the values above in the labeled fields.
-</p>
-<h3><span id="Network_connection_with_the_point-to-point_protocol_(ppp)"></span><span class="mw-headline" id="Network_connection_with_the_point-to-point_protocol_.28ppp.29">Network connection with the point-to-point protocol (ppp)</span></h3>
-<p>The easiest way to set up a network connection between your Raspberry Pi and another computer is with an Ethernet cable. If this is not possible, as is the case for the Raspberry Pi Model A, you can set up a connection over the serial cable. This uses the Point-to-point Protocol (PPP). A network connection running over a serial cable can be very useful for copying files onto the Raspberry Pi.
-</p><p>Step 1: Log in to the Raspberry Pi over the serial cable and run the Point-to-Point Protocol Daemon:
-</p>
-<pre> sudo pppd noauth
-</pre>
-<p>Some garbage will start appearing in the terminal. This is the cue to quit your terminal program and proceed to step two.
-</p><p>Step 2: On your local computer, start the Point-to-Point protocol. On a Linux or Mac computer you can do this by typing:
-</p>
-<pre> sudo pppd noauth proxyarp /dev/tty.usbserial-FTGCC2MV 115200 10.0.0.1:10.0.0.2 passive local maxfail 0 nocrtscts xonxoff
-</pre>
-<p>replacing /dev/tty.usbserial-FTGCC2MV with the name of your serial port. In the above line, 115200 is the baud rate of the connection, 10.0.0.1 is the local internet protocol (IP) address, the address you want your computer to have. 10.0.0.2 is the remote IP address, it is the address that the Raspberry Pi will have.
-</p><p>Test the connection:
-</p>
-<pre> ping 10.0.0.2
-</pre>
-<h3><span class="mw-headline" id="Virtual_connection_to_the_LAN">Virtual connection to the LAN</span></h3>
-<p>Instead of 10.0.0.0/8 you could as well use normal 192.168.0.0/16 addresses;
-the first address must be the real address of the local (serving) system.
-You can chose the second address; it must not yet be assigned on the LAN (and be outside the DHCP range).
-The advantage is that the system connected to the serial line will appear as if it is directly connected to the LAN (arp protocol).
-</p><p>You must enable routing on the system directly connected to the LAN for other systems to access the system connected to the serial line:
-</p>
-<pre>sudo sysctl -w net.ipv4.ip_forward=1
-</pre>
-<p>On the guest system connected via the serial cable you must set the default route pointing to the serving system, e.g.
-</p>
-<pre>sudo route add default gateway 192.168.1.21
-</pre>
-<p>You should also configure /etc/resolv.conf if you want to use DNS.
-</p>
-<h3><span class="mw-headline" id="Windows_terminal_set-up">Windows terminal set-up</span></h3>
-<p>Users of Windows Vista or later will need to download a terminal program, for instance <a rel="nofollow" class="external text" href="http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html">PuTTY</a>, or <a rel="nofollow" class="external text" href="http://en.wikipedia.org/wiki/Tera_Term">TeraTerm</a>. Users of Windows&#160;XP and below can choose between using <i>PuTTY</i> and the built-in <i>Hyperterminal.</i>
-</p><p>PuTTY users simply need to choose 'serial', select the correct COM port and set the speed, as shown in the dialog below.
-</p><p><a href="/File:Putty-settings.png" class="image"><img alt="Putty-settings.png" src="/images/6/64/Putty-settings.png" width="455" height="434" /></a>
-</p><p>If you are unsure of the COM port, run [<a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Device_manager">Device Manager</a>] and look under 'Ports'. USB-attached serial adapters should have the name of the adapter shown (the Adafruit cable comes up as 'Prolific USB-to_Serial Comm Port'.
-</p>
-<h3><span class="mw-headline" id="Boot_messages">Boot messages</span></h3>
-<p>If your connection is set up correctly, when the Raspberry Pi is booted you should see many messages as the system comes up:
-</p>
-<pre>Uncompressing Linux... done, booting the kernel.
-[    0.000000] Initializing cgroup subsys cpu
-[    0.000000] Linux version 3.2.27+ (dc4@dc4-arm-01) (gcc version 4.7.2 20120731 (prerelease) (crosstool-NG linaro-1.13.1+bzr2458 - Linaro GCC 2012.08) ) #250 PREEMPT Thu Oct 18 19:03:02 BST 2012
-[    0.000000] CPU: ARMv6-compatible processor [410fb767] revision 7 (ARMv7), cr=00c5387d
-[    0.000000] CPU: PIPT / VIPT nonaliasing data cache, VIPT nonaliasing instruction cache
-[    0.000000] Machine: BCM2708
-[    0.000000] Memory policy: ECC disabled, Data cache writeback
-[    0.000000] Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 113792
-[    0.000000] Kernel command line: dma.dmachans=0x7f35 bcm2708_fb.fbwidth=656 bcm2708_fb.fbheight=416 bcm2708.boardrev=0xf bcm2708.serial=0xcc5c4b6d smsc95xx.macaddr=B8:27:EB:5C:4B:6D sdhci-bcm2708.emmc_clock_freq=100000000 vc_mem.mem_base=0x1c000000 vc_mem.mem_size=0x20000000  dwc_otg.lpm_enable=0 console=ttyAMA0,115200 console=tty1 root=/dev/mmcblk0p2 rootfstype=ext4 elevator=deadline rootwait
-</pre>
-<p>and so on. Eventually, you should see a login prompt:
-</p>
-<pre>Debian GNU/Linux Wheezy/sid raspi2 ttyAMA0
-
-raspi2 login:
-</pre>
-<p>You can then log in as you would with a keyboard and screen.
-</p>
-<h3><span class="mw-headline" id="Unwanted_serial_garbage_input">Unwanted serial garbage input</span></h3>
-<p>Note that on older software by accident the internal pullups of the RxD GPIO pins were not enabled, this could lead to lots of serial garbage being picked up if the GPIO pin was touched, or even if a finger was nearby. In extreme case this could lead to kernel warnings and other problems.
-</p>
-<h2><span class="mw-headline" id="Connection_to_a_microcontroller_or_other_peripheral">Connection to a microcontroller or other peripheral</span></h2>
-<h3><span id="H/W_considerations"></span><span class="mw-headline" id="H.2FW_considerations">H/W considerations</span></h3>
-<p>If your microcontroller or peripheral works with <b>5V logic levels</b>, level conversion is necessary - see 'Connecting to a PC' for details.
-</p><p>If your microcontroller or peripheral works with <b>3.3V logic levels</b> then you can connect its TxD, RxD signals directly to the RxD and TxD pins of the Raspberry. However it's probably a good idea to connect the signals with a 2.2 kΩ resistors in series. This will prevent damage if two outputs are accidentally connected together (e.g. if you connect TxD with TxD or if a GPIO input pin is accidentally programmed as output).
-</p>
-<h3><span id="S/W:_Preventing_Linux_from_using_the_serial_port"></span><span class="mw-headline" id="S.2FW:_Preventing_Linux_from_using_the_serial_port">S/W: Preventing Linux from using the serial port</span></h3>
-<p>By default Linux will grab the serial port and use it as a terminal. If you want to use it for other purposes you must prevent this. Here are the methods you can use:
-</p>
-<h4><span id="Method_1,_raspi-config_(easiest,_try_this_first)"></span><span class="mw-headline" id="Method_1.2C_raspi-config_.28easiest.2C_try_this_first.29">Method 1, raspi-config (easiest, try this first)</span></h4>
-<p>Run <code>sudo raspi-config</code> and check if it has the option <code>advanced options</code> -&gt; <code>serial</code>. If it has, set it to disabled and you're done.
-</p>
-<h4><span id="Method_2,_using_an_existing_script_(easy)"></span><span class="mw-headline" id="Method_2.2C_using_an_existing_script_.28easy.29">Method 2, using an existing script (easy)</span></h4>
-<p>There's a <a rel="nofollow" class="external text" href="https://github.com/lurch/rpi-serial-console">nice little script</a> to automate the steps bellow. 
-</p>
-<h4><span id="Method_3,_manual_configuration_(complex)"></span><span class="mw-headline" id="Method_3.2C_manual_configuration_.28complex.29">Method 3, manual configuration (complex)</span></h4>
-<p>If neither raspi-config nor the script works for you then follow the hard way.
-</p><p><b>NOTE FOR RASPBERRY PI 3:</b> The Raspberry pi 3 has changed things around a bit: ttyAMA0 now refers to the serial port that is connected to the bluetooth. The old serial port is now called ttyS0. So if you have an RPI3, everywhere you see "ttyAMA0" below, you should read "ttyS0".
-</p><p>The Broadcom UART appears as <code>/dev/ttyAMA0</code> under Linux. There are several minor things in the way if you want to have dedicated control of the serial port on a Raspberry Pi.
-</p>
-<ul><li>Firstly, the kernel will use the port as controlled by kernel command line contained in <code>/boot/cmdline.txt</code>. The file will look something like this:</li></ul>
-<pre>dwc_otg.lpm_enable=0 console=ttyAMA0,115200 kgdboc=ttyAMA0,115200 console=tty1 root=/dev/mmcblk0p2 rootfstype=ext4 elevator=deadline rootwait
-
-</pre>
-<p>The <i>console</i> keyword outputs messages during boot, and the <i>kgdboc</i> keyword enables kernel debugging. You will need to remove all references to ttyAMA0. So, for the example above <code>/boot/cmdline.txt</code>, should contain:
-</p>
-<pre>dwc_otg.lpm_enable=0 console=tty1 root=/dev/mmcblk0p2 rootfstype=ext4 elevator=deadline rootwait
-</pre>
-<p>You must be root to edit this (e.g. use <code>sudo nano /boot/cmdline.txt</code>). Be careful doing this, as a faulty command line can prevent the system booting.
-</p>
-<ul><li>Secondly, after booting, a login prompt appears on the serial port. This is controlled by the following lines in <code>/etc/inittab</code>:</li></ul>
-<pre>#Spawn a getty on Raspberry Pi serial line
-T0:23:respawn:/sbin/getty -L ttyAMA0 115200 vt100
-</pre>
-<p>You will need to edit this file to comment out the second line, i.e.
-</p>
-<pre>#T0:23:respawn:/sbin/getty -L ttyAMA0 115200 vt100
-</pre>
-<p>Finally you will need to reboot the Raspberry Pi for the new settings to take effect. Once this is done, you can use <code>/dev/ttyAMA0</code> like any normal Linux serial port, and you won't get any unwanted traffic confusing the attached devices. 
-</p><p>The above instructions have been verified on Raspbian 'Wheezy'; other distributions may be set up differently. To double-check, use
-</p>
-<pre>cat /proc/cmdline
-</pre>
-<p>to show the current kernel command line, and 
-</p>
-<pre>ps aux | grep ttyAMA0
-</pre>
-<p>to search for <code>getty</code> processes using the serial port.
-</p><p>A tutorial on accessing the Raspberry Pi's serial port from Python is available at <a href="/Serial_port_programming" title="Serial port programming">Serial_port_programming</a>.
-</p>
-<h3><span class="mw-headline" id="Handshaking_lines">Handshaking lines</span></h3>
-<p>You can have the <a href="/RPi_BCM2835_GPIOs#RTS0" title="RPi BCM2835 GPIOs">RTS0</a> signal on <a href="/RPi_BCM2835_GPIOs#GPIO17" title="RPi BCM2835 GPIOs">GPIO 17</a> (P1-11) or <a href="/RPi_BCM2835_GPIOs#GPIO31" title="RPi BCM2835 GPIOs">GPIO 31</a> (P5-06) if you set them to ALT function 3. Likewise, the <a href="/RPi_BCM2835_GPIOs#CTS0" title="RPi BCM2835 GPIOs">CTS0</a> is available on <a href="/RPi_BCM2835_GPIOs#GPIO30" title="RPi BCM2835 GPIOs">GPIO 30</a> (P5-05), if it is set to ALT function 3. You can control the settings of I/O pins with <a rel="nofollow" class="external text" href="https://github.com/rewolff/bw_rpi_tools/tree/master/gpio">gpio_setfunc</a>.
-</p>
-<h3><span class="mw-headline" id="Glitch_when_opening_serial_port">Glitch when opening serial port</span></h3>
-<p>When the serial port is opened the voltage on TXD pulses negative for approximately 32 µs (regardless of the baud rate). This pulse may be interpreted as a transmission by a device connected to the TXD pin, which could have unintended effects.  An error tolerant communication protocol should be used to avoid problems this glitch could cause.  Another method for avoiding problems is to use a GPIO pin to implement the RTS signal, and to have the connected device ignore all data on TXD until RTS is asserted.  If the connected device is susceptible to the glitch and cannot be modified, it is sometimes possible to obtain correct operation by opening the serial port in advance of initiating transmission.  This can be done in the shell with the sleep program:
-</p>
-<pre>sleep infinity &gt;/dev/ttyAMA0 &amp;
-</pre>
-<p>In a shell script, the following commands may be used to kill the sleep process once serial transmission is complete.
-</p>
-<pre>sleep infinity &gt;/dev/ttyAMA0 &amp;
-sleep_pid=$!
-disown $sleep_pid # this is required to prevent an error message when sleep is terminated
-# Use serial port here
-kill $sleep_pid
-</pre>
-<table cellspacing="0" class="navbox" style="border-spacing:0;width:100%;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks navbox-inner" style="border-spacing:0;background:transparent;color:inherit;"><tbody><tr><th scope="col" class="navbox-title" colspan="3" style="background:#00CC00;;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/Template:Raspberry_Pi" title="Template:Raspberry Pi"><span title="View this template" style="background:#00CC00;;;background:none transparent;border:none;;">v</span></a></li><li class="nv-talk"><a href="/Template_talk:Raspberry_Pi" title="Template talk:Raspberry Pi"><span title="Discuss this template" style="background:#00CC00;;;background:none transparent;border:none;;">t</span></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="https://elinux.org/index.php?title=Template:Raspberry_Pi&amp;action=edit"><span title="Edit this template" style="background:#00CC00;;;background:none transparent;border:none;;">e</span></a></li></ul></div><span style="float:right;width:6em;">&#160;</span><div style="font-size:110%;"><a href="/R-Pi_Hub" class="mw-redirect" title="R-Pi Hub"><span style="color:#FFFFFF">Raspberry Pi</span></a></div></th></tr><tr style="height:2px;"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group" style="background:#00CC00;;background:#AA0033;"><b><span style="color:#FFFFFF">Startup</span></b></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:#FFE0FF;;"><div style="padding:0em 0.25em;"><a href="/RPi_Buying_Guide" title="RPi Buying Guide">Buying Guide</a> - <a href="/RPi_Easy_SD_Card_Setup" title="RPi Easy SD Card Setup">SD Card Setup</a> - <a href="/RPi_Hardware_Basic_Setup" title="RPi Hardware Basic Setup">Basic Setup</a> - <a href="/RPi_Advanced_Setup" title="RPi Advanced Setup">Advanced Setup</a> - <a href="/RPi_Beginners" title="RPi Beginners">Beginners Guide</a> - <a href="/R-Pi_Troubleshooting" title="R-Pi Troubleshooting">Troubleshooting</a></div></td><td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px;"><div><a href="/File:RpiFront.jpg" class="image"><img alt="RpiFront.jpg" src="/images/thumb/9/96/RpiFront.jpg/167px-RpiFront.jpg" width="167" height="119" srcset="/images/thumb/9/96/RpiFront.jpg/251px-RpiFront.jpg 1.5x, /images/thumb/9/96/RpiFront.jpg/334px-RpiFront.jpg 2x" /></a></div></td></tr><tr style="height:2px;"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group" style="background:#00CC00;;background:#AA0033;"><b><span style="color:#FFFFFF">Hardware</span></b></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:#FFE0FF;;"><div style="padding:0em 0.25em;"><a href="/RPi_Hardware" title="RPi Hardware">Hardware</a> - <a href="/RPi_HardwareHistory" title="RPi HardwareHistory">Hardware History</a> - <a href="/RPi_Low-level_peripherals" title="RPi Low-level peripherals">Low-level peripherals</a> - <a href="/RPi_Expansion_Boards" title="RPi Expansion Boards">Expansion Boards</a></div></td></tr><tr style="height:2px;"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group" style="background:#00CC00;;background:#AA0033;"><b><span style="color:#FFFFFF">Peripherals</span></b></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:#FFE0FF;;"><div style="padding:0em 0.25em;"><a href="/RPi_Screens" title="RPi Screens">Screens</a> - <a href="/RPi_Cases" title="RPi Cases">Cases</a> - <a href="/RPi_VerifiedPeripherals" title="RPi VerifiedPeripherals">Other Peripherals (Keyboard, mouse, hub, wifi...)</a></div></td></tr><tr style="height:2px;"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group" style="background:#00CC00;;background:#AA0033;"><b><span style="color:#FFFFFF">Software</span></b></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:#FFE0FF;;"><div style="padding:0em 0.25em;"><a href="/RPi_Software" title="RPi Software">Software</a> - <a href="/RPi_Distributions" title="RPi Distributions">Distributions</a> - <a href="/RPi_Kernel_Compilation" class="mw-redirect" title="RPi Kernel Compilation">Kernel</a> - <a href="/RPi_Performance" title="RPi Performance">Performance</a> -  <a href="/RPi_Programming" class="mw-redirect" title="RPi Programming">Programming</a> - <a href="/RPi_VideoCore_APIs" class="mw-redirect" title="RPi VideoCore APIs">VideoCore APIs</a> - <a href="/RPi_Utilities" title="RPi Utilities">Utilities</a></div></td></tr><tr style="height:2px;"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group" style="background:#00CC00;;background:#AA0033;"><b><span style="color:#FFFFFF">Projects</span></b></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:#FFE0FF;;"><div style="padding:0em 0.25em;"><a href="/RPi_Tutorials" title="RPi Tutorials">Tutorials</a> - <a href="/RPi_Guides" title="RPi Guides">Guides</a> - <a href="/RPi_Projects" title="RPi Projects">Projects</a> - <a href="/RPi_Tasks" title="RPi Tasks">Tasks</a> - <a href="/RPi_DatasheetCategories" title="RPi DatasheetCategories">DataSheets</a> - <a href="/RPi_Education" title="RPi Education">Education</a> - <a href="/RPi_Community" title="RPi Community">Communities</a></div></td></tr></tbody></table></td></tr></tbody></table>
-
 <!-- 
 NewPP limit report
-Cached time: 20221218232742
+Cached time: 20221219132815
 Cache expiry: 86400
 Dynamic content: false
-CPU time usage: 0.071 seconds
-Real time usage: 0.146 seconds
-Preprocessor visited node count: 158/1000000
-Preprocessor generated node count: 311/1000000
-Post‐expand include size: 12527/2097152 bytes
+CPU time usage: 0.001 seconds
+Real time usage: 0.001 seconds
+Preprocessor visited node count: 1/1000000
+Preprocessor generated node count: 4/1000000
+Post‐expand include size: 0/2097152 bytes
 Template argument size: 0/2097152 bytes
-Highest expansion depth: 3/40
+Highest expansion depth: 1/40
 Expensive parser function count: 0/100
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 0/5000000 bytes
-Lua time usage: 0.030/7.000 seconds
-Lua virtual size: 8.48 MB/50 MB
-Lua estimated memory usage: 0 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%   88.187      1 -total
-100.00%   88.187      1 Template:Raspberry_Pi
- 95.48%   84.199      1 Template:Navbox
+100.00%    0.000      1 -total
 -->
 </div>
-<!-- Saved in parser cache with key elinux:pcache:idhash:16754-0!canonical and timestamp 20221218232741 and revision id 489841
+<!-- Saved in parser cache with key elinux:pcache:idhash:52364-0!canonical and timestamp 20221219132815 and revision id 236840
  -->
+</div><h2 id="filehistory">File history</h2>
+<div id="mw-imagepage-section-filehistory">
+<p>Click on a date/time to view the file as it appeared at that time.
+</p>
+<table class="wikitable filehistory">
+<tr><th></th><th>Date/Time</th><th>Thumbnail</th><th>Dimensions</th><th>User</th><th>Comment</th></tr>
+<tr><td>current</td><td class='filehistory-selected' style='white-space: nowrap;'><a href="/images/6/64/Putty-settings.png">06:48, 1 April 2013</a></td><td><a href="/images/6/64/Putty-settings.png"><img alt="Thumbnail for version as of 06:48, 1 April 2013" src="/images/thumb/6/64/Putty-settings.png/120px-Putty-settings.png" width="120" height="114" /></a></td><td>455 × 434 <span style="white-space: nowrap;">(12 KB)</span></td><td><a href="/User:IanH" class="mw-userlink" title="User:IanH"><bdi>IanH</bdi></a><span style="white-space: nowrap;"> <span class="mw-usertoollinks">(<a href="/User_talk:IanH" class="mw-usertoollinks-talk" title="User talk:IanH">talk</a> | <a href="/Special:Contributions/IanH" class="mw-usertoollinks-contribs" title="Special:Contributions/IanH">contribs</a>)</span></span></td><td dir="ltr">Screenshot showing settings for using PuTTY with an Adafruit USB-serial lead.</td></tr>
+</table>
+
+</div>
+<ul>
+<li id="mw-imagepage-upload-disallowed">You cannot overwrite this file.</li>
+</ul>
+<h2 id="filelinks">File usage</h2>
+<div id='mw-imagepage-section-linkstoimage'>
+<p>The following page links to this file:
+</p><ul class="mw-imagepage-linkstoimage">
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/RPi_Serial_Connection" title="RPi Serial Connection">RPi Serial Connection</a></li>
+</ul>
+</div>
+<h2 id="metadata">Metadata</h2>
+<div class="mw-imagepage-section-metadata">This file contains additional information, probably added from the digital camera or scanner used to create or digitize it.
+If the file has been modified from its original state, some details may not fully reflect the modified file.<table id="mw_metadata" class="mw_metadata collapsed">
+<tr class="exif-artist"><th>Author</th><td>Ian Harvey</td></tr><tr class="exif-xresolution mw-metadata-collapsible"><th>Horizontal resolution</th><td>28.35 dpc</td></tr><tr class="exif-yresolution mw-metadata-collapsible"><th>Vertical resolution</th><td>28.35 dpc</td></tr></table>
+</div>
 </div>					<div class="printfooter">
-						Retrieved from "<a dir="ltr" href="https://elinux.org/index.php?title=RPi_Serial_Connection&amp;oldid=489841">https://elinux.org/index.php?title=RPi_Serial_Connection&amp;oldid=489841</a>"					</div>
-				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:RaspberryPi" title="Category:RaspberryPi">RaspberryPi</a></li></ul></div></div>				<div class="visualClear"></div>
+						Retrieved from "<a dir="ltr" href="https://elinux.org/index.php?title=File:Putty-settings.png&amp;oldid=236840">https://elinux.org/index.php?title=File:Putty-settings.png&amp;oldid=236840</a>"					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
 							</div>
 		</div>
 		<div id="mw-navigation">
@@ -295,13 +96,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=RPi+Serial+Connection" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li><li id="pt-createaccount"><a href="/Special:RequestAccount" title="You are encouraged to create an account and log in; however, it is not mandatory">Request account</a></li>						</ul>
+							<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=File%3APutty-settings.png" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li><li id="pt-createaccount"><a href="/Special:RequestAccount" title="You are encouraged to create an account and log in; however, it is not mandatory">Request account</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/RPi_Serial_Connection" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk"><span><a href="/Talk:RPi_Serial_Connection" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+							<li id="ca-nstab-image" class="selected"><span><a href="/File:Putty-settings.png" title="View the file page [c]" accesskey="c">File</a></span></li><li id="ca-talk" class="new"><span><a href="/index.php?title=File_talk:Putty-settings.png&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -318,7 +119,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/RPi_Serial_Connection">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/index.php?title=RPi_Serial_Connection&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/index.php?title=RPi_Serial_Connection&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/File:Putty-settings.png">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/index.php?title=File:Putty-settings.png&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/index.php?title=File:Putty-settings.png&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -359,14 +160,14 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/RPi_Serial_Connection" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/RPi_Serial_Connection" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/index.php?title=RPi_Serial_Connection&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=RPi_Serial_Connection&amp;oldid=489841" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=RPi_Serial_Connection&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/File:Putty-settings.png" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/File:Putty-settings.png" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/index.php?title=File:Putty-settings.png&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=File:Putty-settings.png&amp;oldid=236840" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=File:Putty-settings.png&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
 							</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 8 April 2019, at 10:42.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 1 April 2013, at 06:48.</li>
 								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">a Creative Commons Attribution-ShareAlike 3.0 Unported License</a> unless otherwise noted.</li>
 							</ul>
 						<ul id="footer-places">
@@ -382,7 +183,7 @@ Transclusion expansion time report (%,ms,calls,template)
 									</ul>
 						<div style="clear: both;"></div>
 		</div>
-		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.071","walltime":"0.146","ppvisitednodes":{"value":158,"limit":1000000},"ppgeneratednodes":{"value":311,"limit":1000000},"postexpandincludesize":{"value":12527,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":3,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%   88.187      1 -total","100.00%   88.187      1 Template:Raspberry_Pi"," 95.48%   84.199      1 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.030","limit":"7.000"},"limitreport-virtmemusage":{"value":8892416,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20221218232742","ttl":86400,"transientcontent":false}}});});</script><!-- No web analytics configured. -->
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":109});});</script>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.001","walltime":"0.001","ppvisitednodes":{"value":1,"limit":1000000},"ppgeneratednodes":{"value":4,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":1,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20221219132816","ttl":86400,"transientcontent":false}}});});</script><!-- No web analytics configured. -->
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":232});});</script>
 	</body>
 </html>
