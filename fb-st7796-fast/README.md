@@ -29,7 +29,7 @@
 
 ## Перенастройка частоты SPI
 
-Меняем строку 22 в файле dts/sun50i-h6-st7796s.dts 
+Меняем строку 22 в файле ```~/fb_st7796s/dts/sun50i-h6-st7796s.dts ```
 ```console
 $ cd ~/fb_st7796s/dts
 $ sudoedit sun50i-h6-st7796s.dts
