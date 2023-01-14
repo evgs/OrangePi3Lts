@@ -50,7 +50,7 @@ $ sudo armbian-add-overlay gpio-poweroff.dts
 $ reboot
 ```
 
-Проверить правильность результата сборки оверлея можно командой
+Проверить правильность результата сборки оверлея можно командой (требуется установка wiringop, см. https://github.com/orangepi-xunlong/wiringOP )
 ```console
 $ gpio readall
 ```
