@@ -90,6 +90,7 @@ dtoverlay=gpio-poweroff,gpiopin=26,active_low
 $ echo "dtoverlay=gpio-poweroff,gpiopin=26,active_low" | sudo tee -a /boot/config.txt
 ```
 Перезагружаемся
+```console
 $ sudo reboot
 ```
 (Опционально) Проверяем результат. (требуется установка wiringpi http://wiringpi.com/ )
