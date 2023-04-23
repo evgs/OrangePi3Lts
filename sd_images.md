@@ -35,17 +35,19 @@
 Выполнены дополнительные настройки Klipperscreen для использования родного TFT-модуля 3D-принтера Flying Bear Ghost 6 (MKS TS35-R V2.0).
 Образцовая конфигурация под кросс-плату Panama-PI.
 
-username: pi    password: opi3lts
+| Ссылка  | Контрольная сумма  | username  | password  |
+|---------|--------------------|-----------|-----------|
+| [opi3lts-armbian-klipper-23_02_2-tft.img.xz](https://disk.yandex.ru/d/ixubz9rLwWo_5w)  | [MD5](https://disk.yandex.ru/d/b65SwCyx3wrJKQ)  | pi  | opi3lts  |
 
-[opi3lts-armbian-klipper-23_02_2-tft.img.xz](https://disk.yandex.ru/d/ixubz9rLwWo_5w)    [[MD5](https://disk.yandex.ru/d/b65SwCyx3wrJKQ)]
 
 ## Debian 3.0.8 Bullseye Kernel 5.16.17-sun50iw6 TFT
 Выполнены дополнительные настройки Klipperscreen для использования родного TFT-модуля 3D-принтера Flying Bear Ghost 6 (MKS TS35-R V2.0).
 Образцовая конфигурация под кросс-плату Panama-PI.
 
-username: orangepi    password: orangepi
+| Ссылка  | Контрольная сумма  | username  | password  |
+|---------|--------------------|-----------|-----------|
+| [opi3lts-debian-klipper-5.16.17-tft.img.xz](https://disk.yandex.ru/d/NbC7Z7L7qGhJkA)  | [MD5](https://disk.yandex.ru/d/YX8rYuO5LvMLig)  | orangepi  | orangepi  |
 
-[opi3lts-debian-klipper-5.16.17-tft.img.xz](https://disk.yandex.ru/d/NbC7Z7L7qGhJkA)    [[MD5](https://disk.yandex.ru/d/YX8rYuO5LvMLig)]
 
 ## Debian 3.0.8 Bullseye Kernel 5.16.17-sun50iw6 HDMI
 Klipperscreen в оригинальном состоянии, сборка работает с HDMI-экранами, в частности, 7" тачскринами. 
@@ -53,6 +55,6 @@ Klipperscreen в оригинальном состоянии, сборка ра�
 
 Данный образ также рекомендуется при работе без какого-либо дисплея.
 
-username: orangepi    password: orangepi
-
-[opi3lts-debian-klipper-5.16.17-tft.img.xz](https://disk.yandex.ru/d/UV94V2JONHBnLg)    [[MD5](https://disk.yandex.ru/d/Y_Kp65xYlXajHw)]
+| Ссылка  | Контрольная сумма  | username  | password  |
+|---------|--------------------|-----------|-----------|
+| [opi3lts-debian-klipper-5.16.17-tft.img.xz](https://disk.yandex.ru/d/UV94V2JONHBnLg)  | [MD5](https://disk.yandex.ru/d/Y_Kp65xYlXajHw)  | orangepi  | orangepi  |
