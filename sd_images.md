@@ -58,3 +58,12 @@ Klipperscreen в оригинальном состоянии, сборка ра�
 | Ссылка  | Контрольная сумма  | username  | password  |
 |---------|--------------------|-----------|-----------|
 | [opi3lts-debian-klipper-5.16.17-tft.img.xz](https://disk.yandex.ru/d/UV94V2JONHBnLg)  | [MD5](https://disk.yandex.ru/d/Y_Kp65xYlXajHw)  | orangepi  | orangepi  |
+
+
+# Настройка Klipper
+Прошивки Klipper MCU для медвежьих плат семейства Mks Robin Nano V3/Nano4/Nano6 можно скачать отсюда
+https://github.com/evgs/FBG6-Klipper/tree/main/firmware  
+
+или же скомпилировать по инструкции https://github.com/Tombraider2006/klipperFB6/blob/main/klipper.md
+
+Примеры конфигурации printer.cfg смотреть здесь https://github.com/Tombraider2006/klipperFB6/tree/main/klipper_config (расширенный вариант)
