@@ -31,8 +31,8 @@
 98. Рекомендуется выполнить резервную копию конфигурационного файла printer.cfg
 
 
-## Armbian 22.02.3 Bullseye Kernel 5.15.9?-sunxi64 TFT
-Выполнены дополнительные настройки Klipperscreen для использования родного TFT-модуля 3D-принтера Flying Bear Ghost 6 (MKS TS35-R V2.0).
+## Armbian 22.02.3 Bullseye Kernel 5.15.9?-sunxi64 SPI-TFT
+Выполнены дополнительные настройки Klipperscreen для использования родного SPI-TFT-модуля 3D-принтера Flying Bear Ghost 6 (MKS TS35-R V2.0).
 Образцовая конфигурация под кросс-плату Panama-PI.
 
 | Ссылка  | Контрольная сумма  | username  | password  |
@@ -40,8 +40,8 @@
 | [opi3lts-armbian-klipper-23_02_2-tft.img.xz](https://disk.yandex.ru/d/ixubz9rLwWo_5w)  | [MD5](https://disk.yandex.ru/d/b65SwCyx3wrJKQ)  | pi  | opi3lts  |
 
 
-## Debian 3.0.8 Bullseye Kernel 5.16.17-sun50iw6 TFT
-Выполнены дополнительные настройки Klipperscreen для использования родного TFT-модуля 3D-принтера Flying Bear Ghost 6 (MKS TS35-R V2.0).
+## Debian 3.0.8 Bullseye Kernel 5.16.17-sun50iw6 SPI-TFT
+Выполнены дополнительные настройки Klipperscreen для использования родного SPI-TFT-модуля 3D-принтера Flying Bear Ghost 6 (MKS TS35-R V2.0).
 Образцовая конфигурация под кросс-плату Panama-PI.
 
 | Ссылка  | Контрольная сумма  | username  | password  |
