@@ -67,3 +67,11 @@ https://github.com/evgs/FBG6-Klipper/tree/main/firmware
 или же скомпилировать по инструкции https://github.com/Tombraider2006/klipperFB6/blob/main/klipper.md
 
 Примеры конфигурации printer.cfg смотреть здесь https://github.com/Tombraider2006/klipperFB6/tree/main/klipper_config (расширенный вариант)
+
+## SPI-TFT в горизонтальном расположении
+Обладателям FB Reborn2 и пользователям FBG5, заменившим дисплей на MKS TS35-R V2.0, выполнить следующие команды:
+```console
+cd ~/fb_st7796s
+git pull
+switch_to_landscape.sh
+```
