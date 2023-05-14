@@ -73,5 +73,5 @@ https://github.com/evgs/FBG6-Klipper/tree/main/firmware
 ```console
 cd ~/fb_st7796s
 git pull
-switch_to_landscape.sh
+./switch_to_landscape.sh
 ```
