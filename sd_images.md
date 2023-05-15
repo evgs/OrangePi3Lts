@@ -57,7 +57,7 @@ Klipperscreen в оригинальном состоянии, сборка ра�
 
 | Ссылка  | Контрольная сумма  | username  | password  |
 |---------|--------------------|-----------|-----------|
-| [opi3lts-debian-klipper-5.16.17-tft.img.xz](https://disk.yandex.ru/d/UV94V2JONHBnLg)  | [MD5](https://disk.yandex.ru/d/Y_Kp65xYlXajHw)  | orangepi  | orangepi  |
+| [opi3lts-debian-klipper-5.16.17-hdmi.img.xz](https://disk.yandex.ru/d/UV94V2JONHBnLg)  | [MD5](https://disk.yandex.ru/d/Y_Kp65xYlXajHw)  | orangepi  | orangepi  |
 
 
 # Настройка Klipper
