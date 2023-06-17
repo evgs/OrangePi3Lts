@@ -60,6 +60,15 @@ Klipperscreen в оригинальном состоянии, сборка ра�
 |---------|--------------------|-----------|-----------|
 | [opi3lts-debian-klipper-5.16.17-hdmi.img.xz](https://disk.yandex.ru/d/UV94V2JONHBnLg)  | [MD5](https://disk.yandex.ru/d/Y_Kp65xYlXajHw)  | orangepi  | orangepi  |
 
+## Mainsailos 1.2.1 Raspbian Bullseye Kernel 6.1.21-v8
+СБОРКА ДЛЯ RASPBERRY PI3/PI4!
+Выполнены дополнительные настройки Klipperscreen для использования родного SPI-TFT-модуля 3D-принтера Flying Bear Ghost 6 (MKS TS35-R V2.0).
+Образцовая конфигурация под кросс-плату Panama-PI (RPI).
+
+Интерфейс по умолчанию - Mainsail, для доступа к Fluidd в строке браузера добавить порт :81
+| Ссылка  | Контрольная сумма  | username  | password  |
+|---------|--------------------|-----------|-----------|
+| [mainsail-1.2.1-s.img.gz](https://disk.yandex.ru/d/faXXDblyu3d-xg)  | [MD5](https://disk.yandex.ru/d/qyaJeWUF_b9Q_w)  | pi  | raspberry  |
 
 # Настройка Klipper
 Прошивки Klipper MCU для медвежьих плат семейства Mks Robin Nano V3/Nano4/Nano6 можно скачать отсюда
