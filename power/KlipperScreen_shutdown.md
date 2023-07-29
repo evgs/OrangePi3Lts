@@ -21,4 +21,4 @@ params: {"script":"SHUTDOWN_MACHINE"}
 ```
 
 ## Пример готового файла KlipperScreen.conf
-[KlipperScreen.conf](KlipperScreen.conf)
+[KlipperScreen.conf](KlipperScreen.conf.example)
