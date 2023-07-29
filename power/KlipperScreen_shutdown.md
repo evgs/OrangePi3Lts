@@ -20,5 +20,7 @@ method: printer.gcode.script
 params: {"script":"SHUTDOWN_MACHINE"}
 ```
 
+Данная кнопка доступна только при простое принтера. В процессе печати кнопку нажать случайно или намеренно невозможно, т.к. активен экран прргресса печати.
+
 ## Пример готового файла KlipperScreen.conf
 [KlipperScreen.conf](KlipperScreen.conf.example)
