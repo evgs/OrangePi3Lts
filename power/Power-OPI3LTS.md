@@ -41,20 +41,20 @@
 
 Устанавливаем необходимые зависимости
 ```console
-$ sudo apt install git build-essential linux-headers-current-sunxi64
+sudo apt install git build-essential linux-headers-current-sunxi64
 ```
 
 Скачать файл gpio-poweroff.dts в домашнюю директорию и скомпилировать
 ```console
-$ cd ~
-$ wget https://raw.githubusercontent.com/evgs/OrangePi3Lts/main/power/gpio-poweroff.dts
-$ sudo armbian-add-overlay gpio-poweroff.dts
-$ reboot
+cd ~
+wget https://raw.githubusercontent.com/evgs/OrangePi3Lts/main/power/gpio-poweroff.dts
+sudo armbian-add-overlay gpio-poweroff.dts
+reboot
 ```
 
 Проверить правильность результата сборки оверлея можно командой (требуется установка wiringop, см. https://github.com/orangepi-xunlong/wiringOP )
 ```console
-$ gpio readall
+gpio readall
 ```
 Пин PL2 должен быть сконфигурирован (Mode) как выход OUT и прочитываться (V) в состоянии лог. единицы:
 ![PL2 STATE](../images/gpio8.png) 
@@ -66,11 +66,11 @@ $ gpio readall
 
 Также светодиод может быть "погашен" доступом к пину через sysfs:
 ```console
-$ echo "0" | sudo tee /sys/class/leds/key-pwc/brightness
+echo "0" | sudo tee /sys/class/leds/key-pwc/brightness
 ```
 иил через интерфейс gpiod:
 ```console
-$ gpio write 3 0
+gpio write 3 0
 ```
 TODO: пример форсированного выключения через klipper.
 
