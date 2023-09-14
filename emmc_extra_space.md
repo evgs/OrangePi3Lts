@@ -84,7 +84,7 @@ sudo mkfs.ext4 /dev/mmcblk0p1
 sudoedit /etc/fstab
 ```
 
-Добавляем строку
+Добавляем строку (TODO: уточнить опции монтирования)
 
 ```
 /dev/mmcblk0p1 /mnt/sdcard/               ext4    defaults,noatime  0       2
