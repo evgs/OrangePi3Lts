@@ -148,5 +148,5 @@ sudo service moonraker-telegram-bot start
 
 ## Известные недостатки:
 
-Fluidd (Moonraker тоже?) отображает свободное место на eMMC, а про SD-карту ничего не знает
+Fluidd (Mainsail тоже?) отображает свободное место на eMMC, а про SD-карту ничего не знает
 
