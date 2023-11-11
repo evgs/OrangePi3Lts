@@ -44,13 +44,24 @@
 sudo apt install git build-essential linux-headers-current-sunxi64
 ```
 
-Скачать файл gpio-poweroff.dts в домашнюю директорию и скомпилировать
+Скачать файл gpio-poweroff.dts в домашнюю директорию и скомпилировать:
+
+Для Armbian:
 ```console
 cd ~
 wget https://raw.githubusercontent.com/evgs/OrangePi3Lts/main/power/gpio-poweroff.dts
 sudo armbian-add-overlay gpio-poweroff.dts
 reboot
 ```
+
+Для Debian:
+```console
+cd ~
+wget https://raw.githubusercontent.com/evgs/OrangePi3Lts/main/power/gpio-poweroff.dts
+sudo orangepi-add-overlay gpio-poweroff.dts
+reboot
+```
+
 
 Проверить правильность результата сборки оверлея можно командой (требуется установка wiringop, см. https://github.com/orangepi-xunlong/wiringOP )
 ```console
