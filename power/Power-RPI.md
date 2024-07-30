@@ -43,14 +43,18 @@
 
 Убедитесь в наличии готового оверлея gpio-poweroff:
 ```console 
-$ ls /boot/overlays/gpio-poweroff.dtbo
+ls /boot/overlays/gpio-poweroff.dtbo
+```
+```console
 /boot/overlays/gpio-poweroff.dtbo
 ```
 Оверлей присутствует во всех дистрибутивах, основанных на Raspbian
 
 Также можно почитать встроенное описание данного оверлея
 ```console 
-$ dtoverlay -h gpio-poweroff
+dtoverlay -h gpio-poweroff
+```
+```console
 Name:   gpio-poweroff
 
 Info:   Drives a GPIO high or low on poweroff (including halt). Using this
@@ -81,23 +85,24 @@ Params: gpiopin                 GPIO for signalling (default 26)
 ```
 
 Добавляем следующую строку в файл config.txt. Укажем, что используем пин GPIO26, и что для выключения пин должен быть в состоянии логического нуля:
-```
+```console
 dtoverlay=gpio-poweroff,gpiopin=26,active_low
 ```
 
 Это можно сделать либо через текстовый редактор, либо такой командой:
 (В старых raspbian)
 ```console
-$ echo "dtoverlay=gpio-poweroff,gpiopin=26,active_low" | sudo tee -a /boot/config.txt
+echo "dtoverlay=gpio-poweroff,gpiopin=26,active_low" | sudo tee -a /boot/config.txt
 ```
 
 Начиная с версий Bookworm config.txt переехал в /boot/firmware :
 ```console
-$ echo "dtoverlay=gpio-poweroff,gpiopin=26,active_low" | sudo tee -a /boot/firmware/config.txt
+echo "dtoverlay=gpio-poweroff,gpiopin=26,active_low" | sudo tee -a /boot/firmware/config.txt
 ```
+
 Перезагружаемся
 ```console
-$ sudo reboot
+sudo reboot
 ```
 (Опционально) Проверяем результат. (требуется установка wiringpi http://wiringpi.com/ )
 Внимание! У wiringpi своя нумерация, смотреть на номер в столбце BCM (26)
