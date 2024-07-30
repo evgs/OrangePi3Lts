@@ -86,14 +86,21 @@ dtoverlay=gpio-poweroff,gpiopin=26,active_low
 ```
 
 Это можно сделать либо через текстовый редактор, либо такой командой:
+(В старых raspbian)
 ```console
 $ echo "dtoverlay=gpio-poweroff,gpiopin=26,active_low" | sudo tee -a /boot/config.txt
+```
+
+Начиная с версий Bookworm config.txt переехал в /boot/firmware :
+```console
+$ echo "dtoverlay=gpio-poweroff,gpiopin=26,active_low" | sudo tee -a /boot/firmware/config.txt
 ```
 Перезагружаемся
 ```console
 $ sudo reboot
 ```
 (Опционально) Проверяем результат. (требуется установка wiringpi http://wiringpi.com/ )
+Внимание! У wiringpi своя нумерация, смотреть на номер в столбце BCM (26)
 ```console 
 $ gpio readall
 ```
