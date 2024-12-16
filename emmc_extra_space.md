@@ -87,7 +87,7 @@ sudoedit /etc/fstab
 Добавляем строку (TODO: уточнить опции монтирования)
 
 ```
-/dev/mmcblk0p1 /mnt/sdcard/               ext4    defaults,noatime  0       2
+/dev/mmcblk0p1 /mnt/sdcard/               ext4    defaults,noatime,nofail  0       2
 ```
 Сохраняемся ```^x``` и выходим.
 
