@@ -31,14 +31,14 @@ mount | grep mmcblk2
 
 Все действия должны выполняться от имени пользователя, в домашней директории которого установлен и запускается klipper.
 
-В данном руководстве предполагается, что имя пользователя ```pi```:
+В данном руководстве предполагается, что имя пользователя ```orangepi```:
 
 ```
 whoami
 ```
-```pi```
+```orangepi```
 
-Если у вас иначе, везде в этом руководстве, где встречается pi, вставьте имя своего пользователя.
+Если у вас иначе, везде в этом руководстве, где встречается ```orangepi```, вставьте имя своего пользователя.
 
 ### Путь до дополнительного накопителя
 
@@ -54,7 +54,7 @@ whoami
 ```
 sudo mkdir -p /mnt/sdcard/gcodes
 sudo mkdir -p /mnt/sdcard/timelapses
-sudo chown pi:pi /mnt/sdcard/*
+sudo chown orangepi:orangepi /mnt/sdcard/*
 ```
 
 Ставим файл-метку, которую будем видеть в вебинтерфейсе, если SD-накопитель отвалился
@@ -106,7 +106,7 @@ ls /mnt/sdcard
 ```
 sudo mkdir -p /mnt/sdcard/gcodes
 sudo mkdir -p /mnt/sdcard/timelapses
-sudo chown pi:pi /mnt/sdcard/*
+sudo chown orangepi:orangepi /mnt/sdcard/*
 touch /mnt/sdcard/gcodes/GCODES-ON-SDCARD
 ```
 
