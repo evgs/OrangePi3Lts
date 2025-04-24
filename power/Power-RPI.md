@@ -104,7 +104,7 @@ echo "dtoverlay=gpio-poweroff,gpiopin=26,active_low" | sudo tee -a /boot/firmwar
 ```console
 sudo reboot
 ```
-(Опционально) Проверяем результат. (требуется установка wiringpi http://wiringpi.com/ )
+(Опционально) Проверяем результат. (требуется установка wiringpi https://github.com/WiringPi/WiringPi )
 Внимание! У wiringpi своя нумерация, смотреть на номер в столбце BCM (26)
 ```console 
 $ gpio readall
